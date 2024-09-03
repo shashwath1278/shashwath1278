@@ -6,7 +6,7 @@
 
 - 🚀 Just a regular GitHub account in development, just here to learn stuff
 - 🎓 Currently studying engineering at MSRIT, Bangalore
-- 🌐 Reach out to me on [LinkedIn](https://www.linkedin.com/in/shashwath-prabhu) and Discord (shash)
+- 🌐 Reach out to me on [LinkedIn](https://www.linkedin.com/in/shashwath-prabhu-1b144827a/) and Discord (shash)
 - 🔥 Really enthusiastic and excited to learn new stuff
 - 🛡️ Holding a strong interest in the field of cyber security
 
