@@ -3,8 +3,8 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/shash1670/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwath-prabhu-1b144827a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ok-Flight9847/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrabhuShas26482)
-Visit my portfolio here =>[![Portfolio](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FioRhbJw_portfolio-portfolio-pink-png-transparent-png%2F&psig=AOvVaw1oMaEYjHnYxGsgPlaE8mu0&ust=1726164132687000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj__tK8u4gDFQAAAAAdAAAAABAE).](https://shashwath1278.github.io/portfolio-website/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/shash1670/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwath-prabhu-1b144827a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ok-Flight9847/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrabhuShas26482)<br/>
+Visit my portfolio here =>[![Portfolio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlmHoknKpLz_qAuJx8i1wd2FaWDng7X9PR34o2Wz-54YEX7_nsdRFSyD_NfNSHtV3FkeY&usqp=CAU).](https://shashwath1278.github.io/portfolio-website/)
 
 
 # 💻 Tech Stack:
