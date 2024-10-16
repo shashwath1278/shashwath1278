@@ -1,5 +1,5 @@
-
-# 💫 About Me:<br>🚀 Just a regular GitHub account in development, just here to learn stuff<br>🎓 Currently studying Info science engineering at MSRIT, Bangalore<br>🌐 Reach out to me on LinkedIn and Discord (shash)<br>🔥 Really enthusiastic and excited to learn new stuff<br>🛡️ Holding a strong interest in the field of cyber security <br>
+# 💫 About Me:
+<br> 🚀 Just a regular GitHub account in development, just here to learn stuff<br>🎓 Currently studying Info science engineering at MSRIT, Bangalore<br>🌐 Reach out to me on LinkedIn and Discord (shash)<br>🔥 Really enthusiastic and excited to learn new stuff<br>🛡️ Holding a strong interest in the field of cyber security 
 
 
 ## 🌐 Socials:
