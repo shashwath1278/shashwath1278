@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Just a regular GitHub account in development, just here to learn stuff<br>🎓 Currently studying Info science engineering at MSRIT, Bangalore<br>🌐 Reach out to me on LinkedIn and Discord (shash)<br>🔥 Really enthusiastic and excited to learn new stuff<br>🛡️ Holding a strong interest in the field of cyber security, preparing for my OSCP and CPTS exams.<br>
 
-<a href="https://shashwathprabhu-one.vercel.app/">My Portfolio</a>
+<a href="https://shashwath-prabhu-1278.vercel.app/">My Portfolio</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwath-prabhu-1b144827a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ok-Flight9847/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrabhuShas26482) 
