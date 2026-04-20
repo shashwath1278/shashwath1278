@@ -103,7 +103,7 @@ PORT      STATE  SERVICE             PROFICIENCY
 
 <br/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashwath1278&theme=github_dark&utcOffset=5.5" alt="Commits by Time"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=shashwath1278&theme=dark&hide_border=false" alt="Commits by Time"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashwath1278&theme=github_dark" alt="Contribution Graph"/>
 
 </div>
