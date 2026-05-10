@@ -14,7 +14,7 @@
 name: Shashwath Prabhu
 role: Full-Stack Developer & AI Engineer
 location: Bangalore, India
-currently: Project Intern @ Hewlett Packard Enterprise
+currently: Project Intern @ Hewlett Packard Enterprise and Fullstack Engineer Intern @ Chessworld.ai
 interests: ["Autonomous Systems", "LLM Pipelines", "Cybersecurity", "Scalable Backends"]
 fun_fact: "I break things on purpose — and sometimes even fix them"
 ```
